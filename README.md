@@ -38,6 +38,6 @@
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Mahmoud_Moustafa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahmoud-mostafa/)](https://www.linkedin.com/in/mahmoud-mostafa/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Mahmoud_Moustafa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahmoud-mostafa-9a14a1238/)](https://www.linkedin.com/in/mahmoud-mostafa-9a14a1238/)
 [![Github Badge](https://img.shields.io/badge/-M_Moustafa09-181717?style=flat-square&logo=Github&logoColor=white&link=https://github.com/M-Moustafa09)](https://github.com/M-Moustafa09)
 [![Gmail Badge](https://img.shields.io/badge/-mmoustafa0009@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mmoustafa0009@gmail.com)](mailto:mmoustafa0009@gmail.com)
